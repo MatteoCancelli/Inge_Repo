@@ -4,7 +4,6 @@ public class Elettore {
 	private String cartaIdentita;
 
 	public Elettore(String cartaIdentita) {
-		super();
 		this.cartaIdentita = cartaIdentita;
 	}
 

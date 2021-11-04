@@ -6,7 +6,6 @@ public class Scrutatore {
 	private String cartaIdentita;
 	
 	public Scrutatore(String nome, String cognome, String cartaIdentita) {
-		super();
 		this.nome = nome;
 		this.cognome = cognome;
 		this.cartaIdentita = cartaIdentita;
